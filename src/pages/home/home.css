@@ -1,0 +1,8 @@
+.home{
+    display: flex;
+}
+
+.homeWrapper{
+    margin: 0 auto;
+    width: 80%;
+}

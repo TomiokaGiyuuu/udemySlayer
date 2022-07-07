@@ -1,0 +1,44 @@
+.card{
+    width: 350px;
+    height: 512px;
+    border-radius: 20px;
+    border: 1px solid #E6ECF3;
+    box-shadow: 10px 20px 20px rgba(229, 233, 246, 0.3);
+    overflow: hidden;
+}
+
+.cardImg{
+    height: 240px;
+}
+
+.cardImg_img{
+    object-fit: cover;
+}
+
+.cardDesc{
+    padding: 20px 28px;
+}
+
+.cardName{
+    font-weight: 600;
+    font-size: 24px;
+    color: #1F4066;
+}
+
+.cardAuthor{
+    display: flex;
+    align-items: center;
+}
+
+.cardAuthor h1{
+    font-size: 18px;
+    color: #627C9A;
+    font-weight: 400;
+    margin-right: 5px;
+}
+
+.cardAuthor h2{
+    font-size: 18px;
+    color: #627C9A;
+    font-weight: 600;
+}

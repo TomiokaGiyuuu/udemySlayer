@@ -1,0 +1,25 @@
+.courses{
+    margin-top: 141px;
+}
+
+.courseButtons{
+    margin-top: 35px;
+    display: flex;
+}
+
+.courseButton{
+    margin-right: 20px;
+    outline: none;
+    border: 1px solid #9FB3C8;
+    background-color: white;
+    color: #9FB3C8;
+    border-radius: 8px;
+    padding: 8px 16px;
+}
+
+.courseButton.active{
+    border: 1px solid #1F4066;
+    background-color: #1F4066;
+    color: white;
+}
+

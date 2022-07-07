@@ -1,0 +1,41 @@
+.welcomeInfo{
+    display: flex;
+}
+
+.welcomeText{
+    margin-top: 127px;
+    width: 40%;
+}
+
+.welcomeMainText{
+    font-size: 40px;
+    font-weight: 600;
+    color: #1F4066;
+    margin-bottom: 30px;
+}
+
+.welcomeAdditionalText{
+    color: #627C9A;
+    margin-bottom: 46px;
+}
+
+.welcomeImgWrapper{
+    position: relative;
+    width: 50%;
+    margin-left: auto;
+}
+
+.welcomeImg{
+    object-fit: cover;
+}
+
+.welcomeLogin{
+    padding: 8px 16px;
+    height: 35px;
+    border-radius: 8px;
+    font-size: 14px;
+    color: white;
+    outline: none;
+    border: none;
+    background: #2A73CC;
+}
